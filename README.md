@@ -1,6 +1,6 @@
 # AAN_leaf_disease_detection
 Deep learning-based potato leaf disease detection using CNN on the PlantVillage dataset, inspired by IEEE 2025 research for accurate and efficient classification of Early Blight, Late Blight, and Healthy leaves
-# 🥔 Potato Leaf Disease Detection using CNN
+# Potato Leaf Disease Detection using CNN
 
 ##  Overview
 Potato is one of the most widely cultivated crops, but its production is highly affected by diseases such as Early Blight and Late Blight. Traditional disease detection methods rely on manual inspection by experts, which is time-consuming, error-prone, and not scalable.
@@ -23,7 +23,7 @@ This project proposes an automated potato leaf disease detection system using Co
 -  Simple and user-friendly implementation  
 
 
-## 📂 Dataset
+## Dataset
 - **PlantVillage Dataset (Kaggle)**
 - Contains labeled images of potato leaves:
   - Early Blight  
